@@ -1,0 +1,6 @@
+1.5.0
+[fix] my subscriptions section using YouTube RSS |contrib: PureHemp|
+
+
+1.0.0~alpha (2014-07-26)
+- initial version for tests
