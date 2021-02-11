@@ -16,6 +16,8 @@
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+		<platform>all</platform>
+        <license>GPL-2.0-only</license>
 		<source>https://github.com/abcmediagroup/abc.player</source>
     </extension>
 </addon>
