@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="abc.player" version="1.5.0" name="ABC Player" provider-name="abcmediagroup">
+<addon id="abc.player" version="1.6.0" name="ABC Player" provider-name="abcmediagroup">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.future" version="0.16.0"/>
